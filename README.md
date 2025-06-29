@@ -1,4 +1,4 @@
-# Descubra sua Idade
+# Descubra sua Idade - Projeto para teste do framework Svelte
 
 ![Banner One Piece](static/banner.png)
 
